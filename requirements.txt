@@ -1,0 +1,6 @@
+certifi==2018.8.24
+numpy==1.16.2
+opencv-python==4.0.0.21
+Pillow==5.4.1
+pyzbar==0.1.8
+wincertstore==0.2
